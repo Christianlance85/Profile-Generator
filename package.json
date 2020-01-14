@@ -1,28 +1,15 @@
 {
-  "name": "node-developer-profile-generator",
+  "name": "Profile-Generator",
   "version": "1.0.0",
-  "description": "Node.js and ES6+ Homework: Developer Profile Generator",
+  "description": "This is a repository for the Vanderbilt Coding Bootcamp Homework 9\r By | Christian Lance",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/carinalullman/Node-Developer-Profile-Generator.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/carinalullman/Node-Developer-Profile-Generator/issues"
-  },
-  "homepage": "https://github.com/carinalullman/Node-Developer-Profile-Generator#readme",
   "dependencies": {
     "any": "^1.0.0",
     "arch": "^2.1.1",
     "axios": "^0.19.1",
     "conversion": "^1.2.3",
     "darwin": "0.0.5",
-    "electron": "^7.1.7",
+    "electron": "^7.1.9",
     "electron-html-to": "^2.6.0",
     "fs": "0.0.1-security",
     "html-pdf": "^2.2.0",
@@ -32,5 +19,20 @@
     "pdf": "^0.1.0",
     "phantom-html-to-pdf": "^0.6.0",
     "util": "^0.12.1"
-  }
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Christianlance85/Profile-Generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Christianlance85/Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/Christianlance85/Profile-Generator#readme"
 }
