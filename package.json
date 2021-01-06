@@ -6,7 +6,7 @@
   "dependencies": {
     "any": "^1.0.0",
     "arch": "^2.1.1",
-    "axios": "^0.19.1",
+    "axios": "^0.21.1",
     "conversion": "^1.2.3",
     "darwin": "0.0.5",
     "electron": "^7.1.9",
