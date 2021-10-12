@@ -9,7 +9,7 @@
     "axios": "^0.19.1",
     "conversion": "^1.2.3",
     "darwin": "0.0.5",
-    "electron": "^7.1.9",
+    "electron": "^11.5.0",
     "electron-html-to": "^2.6.0",
     "fs": "0.0.1-security",
     "html-pdf": "^2.2.0",
